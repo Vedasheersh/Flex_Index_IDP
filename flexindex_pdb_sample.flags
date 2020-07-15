@@ -1,0 +1,13 @@
+# flags file for running flex_index_pdb.py
+
+-pdb './reals2_snapshots/WT.pdb'
+
+-res_range '1-91'
+
+-bin_size '2'
+
+-thresholds '1,2,3,4'
+
+-out_name 'out_WT_bin5.csv'
+
+-verbose 'False'
